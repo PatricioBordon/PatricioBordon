@@ -1,4 +1,4 @@
-![fotora](https://user-images.githubusercontent.com/95234993/154091420-67a47506-398d-42a9-a7ed-5c7c34ae3642.jpg)
+![pixlr-bg-result](https://user-images.githubusercontent.com/95234993/154091976-7dfb6c3d-65a5-45d8-9b40-4733ef6abee4.png)
 
 
 ### Hi there 👋
