@@ -1,6 +1,4 @@
 ![pixlr-bg-result](https://user-images.githubusercontent.com/95234993/154091976-7dfb6c3d-65a5-45d8-9b40-4733ef6abee4.png)
-
-
 ### Hi there 👋
 
 <!--
