@@ -7,11 +7,13 @@
  }
 
 ```
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
+
 ### 📫 How to reach me:
 - [instagram](https://www.instagram.com/patricio_bordon_/?hl=es)
 - [linkedin](https://www.linkedin.com/in/patricio-bordon-6511981b3/)
 - WhatsApp : +54 9 11 5463-5022
+- [Gmail](patriciobordon123@gmail.com)
 
 ### 🔭 I’m currently working on 
 ``
