@@ -1,9 +1,14 @@
 ![Patricio Emiliano Bordón (3)](https://user-images.githubusercontent.com/95234993/154117928-40d2a748-e77d-4f36-89bc-b58dea7f0a7a.gif)
 ### Hi there 👋
+
 ```js
  let PatricioBordon = {
      code = [C++, Python, JavaScript, HTML5, CSS3];
      tools = [VisualStudioCode, JupyterLab, Git, Gimp];
+     age = 18;
+     studies = UTN;
+     nacionality = Argentinian;
+     from = [Argentina, AMBA];
  }
 
 ```
