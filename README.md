@@ -7,13 +7,18 @@
  }
 
 ```
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 ### 📫 How to reach me:
+
 - [instagram](https://www.instagram.com/patricio_bordon_/?hl=es)
 - [linkedin](https://www.linkedin.com/in/patricio-bordon-6511981b3/)
-- WhatsApp : +54 9 11 5463-5022
-- [Gmail](patriciobordon123@gmail.com)
+- <img src="https://img.shields.io/badge/Whatsapp-+5491154635022-25D366.svg?logo=whatsapp&style=plastic">
+- [![Gmail Badge](https://img.shields.io/badge/-patriciobordon123@gmail.com-c14438?style=plastic&logo=Gmail&link=mailto:patriciobordon123@gmail.com)](mailto:patriciobordon123@gmail.com)
+
+
+  <img align= "right" src="https://github-readme-stats.vercel.app/api?username=PatricioBordon&show_icons=true" alt="PatricioBordon Stats" />
+</a>
 
 ### 🔭 I’m currently working on 
 ``
@@ -23,10 +28,3 @@
 - JavaScript
 ### 👯 I’m looking to collaborate on 
 - Projects related to data science and machine learning
-
-- 💬 Ask me about ...
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
