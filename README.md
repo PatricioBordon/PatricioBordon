@@ -3,7 +3,7 @@
 ```js
  let PatricioBordon = {
      code = [C++, Python, JavaScript, HTML5, CSS3];
-     editor = [VisualStudioCode, Gimp, Git, JupyterLab];
+     tools = [VisualStudioCode, JupyterLab, Git, Gimp];
  }
 
 ```
