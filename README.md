@@ -17,7 +17,7 @@
 
 ### 📫 How to reach me:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Patricio_Bordon_-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/patricio-bordon-6511981b3/&target=_blank)](https://www.linkedin.com/in/patricio-bordon-6511981b3/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Patricio_Bordon_-blue?style=plastic&logo=Linkedin&target=_BLANK&link=https://www.linkedin.com/in/patricio-bordon-6511981b3/)](https://www.linkedin.com/in/patricio-bordon-6511981b3/)
 - [<img src = "https://img.shields.io/badge/instagram-patricio_bordon_-%23E4405F.svg?&style=plastic&logo=instagram">](https://www.instagram.com/patricio_bordon_/?hl=es)
 - <img src="https://img.shields.io/badge/Whatsapp-+5491154635022-25D366.svg?logo=whatsapp&style=plastic">
 - [![Gmail Badge](https://img.shields.io/badge/-patriciobordon123@gmail.com-c14438?style=plastic&logo=Gmail&link=mailto:patriciobordon123@gmail.com)](mailto:patriciobordon123@gmail.com)
