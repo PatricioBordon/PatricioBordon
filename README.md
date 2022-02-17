@@ -31,6 +31,6 @@
  improve face mask recognition in real time
 ``
 ### 🌱 I’m currently learning 
-- JavaScript
+- Python
 ### 👯 I’m looking to collaborate on 
 - Projects related to data science and machine learning
