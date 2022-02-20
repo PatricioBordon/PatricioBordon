@@ -23,7 +23,7 @@
 
 
 
-  <img align= "right" src="https://github-readme-stats.vercel.app/api?username=PatricioBordon&show_icons=true" alt="PatricioBordon Stats" />
+  <img align= "right" src="https://github-readme-stats.vercel.app/api?username=PatricioBordon&show_icons=true&theme=radical" alt="PatricioBordon Stats" />
 </a>
 
 ### 🔭 I’m currently working on 
