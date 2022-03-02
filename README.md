@@ -6,7 +6,7 @@
 ```js
  let PatricioBordon = {
      code = [C++, Python, JavaScript, HTML5, CSS3];
-     tools = [VisualStudioCode, JupyterLab, Git, Gimp];
+     tools = [VisualStudioCode, JupyterLab, Git_Bash, Git, Gimp];
      age = 18;
      studies = UTN;
      nacionality = Argentinian;
