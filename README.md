@@ -32,5 +32,5 @@
  improve face mask recognition in real time
 ``
 ### 🌱 I’m currently learning 
-- JavaScript
+- Python
 
