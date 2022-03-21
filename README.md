@@ -26,9 +26,9 @@
   <img align= "right" src="https://github-readme-stats.vercel.app/api?username=PatricioBordon&show_icons=true&theme=radical" alt="PatricioBordon Stats" />
 </a>
 
-### 🔭 I’m currently working on 
+### 🔭 I’m currently studying on 
 ``
- improve face mask recognition in real time
+ UTN
 ``
 ### 🌱 I’m currently learning 
 - C/C++
