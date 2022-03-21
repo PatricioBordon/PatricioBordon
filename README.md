@@ -5,7 +5,7 @@
 
 ```js
  let PatricioBordon = {
-     code = [C++, Python, JavaScript, HTML5, CSS3];
+     code = [C/C++, Python, JavaScript, HTML5, CSS3];
      tools = [VisualStudioCode, JupyterLab, Git_Bash, Git, Gimp];
      age = 18;
      studies = UTN;
