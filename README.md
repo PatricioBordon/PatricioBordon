@@ -20,7 +20,7 @@
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-bordon-6511981b3/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/patricio_bordon_/?hl=es)
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patriciobordon123@gmail.com)
-- <img src="https://img.shields.io/badge/Whatsapp-+5491154635022-25D366.svg?logo=whatsapp&style=flat">
+- <img src="https://img.shields.io/badge/Whatsapp-+5491154635022-25D366.svg?logo=whatsapp&style=flat&link=https://walink.co/e12c21">
 
 
 
