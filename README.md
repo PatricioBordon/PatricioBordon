@@ -30,6 +30,8 @@
 ``
  UTN
 ``
+``Digit@lers Telecom``
 ### 🌱 I’m currently learning 
-- C/C++
+- C/C++ 
+- Python
 
