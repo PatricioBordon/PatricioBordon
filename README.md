@@ -8,7 +8,7 @@
      code = [C/C++, Python, JavaScript, HTML5, CSS3];
      tools = [VisualStudioCode, JupyterLab, Git_Bash, Git, Gimp];
      age = 18;
-     studies = UTN;
+     studies = UTN, TELECOM;
      nacionality = Argentinian;
      from = [Argentina, AMBA];
  }
@@ -30,7 +30,7 @@
 ``
  UTN
 ``
-``Digit@lers Telecom``
+``Digit@lers TELECOM``
 ### 🌱 I’m currently learning 
 - C/C++ 
 - Python
