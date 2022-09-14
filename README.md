@@ -5,7 +5,7 @@
 
 ```js
  let PatricioBordon = {
-     code = [C/C++, Python, JavaScript, HTML5, CSS3];
+     code = [C/C++, Python, HTML5, CSS3];
      tools = [VisualStudioCode, JupyterLab, Git_Bash, Git, Gimp];
      age = 18;
      studies = UTN, TELECOM;
@@ -30,7 +30,7 @@
 ``
  UTN
 ``
-``Digit@lers TELECOM``
+
 ### 🌱 I’m currently learning 
 - C/C++ 
 - Python
