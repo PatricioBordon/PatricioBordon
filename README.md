@@ -3,12 +3,12 @@
 
 ### Hi there 👋
 
-```js
- let PatricioBordon = {
-     code = [C/C++, Python, HTML5, CSS3];
-     tools = [VisualStudioCode, JupyterLab, Git_Bash, Git, Gimp];
-     age = 18;
-     studies = UTN, TELECOM;
+```c#
+  PatricioBordon = {
+     code = [C/C++, C#, SQL, Python, HTML5, CSS3];
+     tools = [Visual_Studio_Code, Visual_Studio_IDE, CodeBlocks, Source_Tree, BitBucket, JupyterLab, Git_Bash, Git, Gimp];
+     age = 20;
+     studies = UTN;
      nacionality = Argentinian;
      from = [Argentina, AMBA];
  }
@@ -33,5 +33,6 @@
 
 ### 🌱 I’m currently learning 
 - C/C++ 
-- Python
+- C# .NET
+- SQL
 
