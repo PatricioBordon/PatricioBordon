@@ -1,4 +1,4 @@
-![Patricio Emiliano Bordón (7)](https://user-images.githubusercontent.com/95234993/155026237-b1884e44-65d4-4984-8fa9-c8636d385ade.gif)
+![shine](https://github.com/PatricioBordon/PatricioBordon/assets/95234993/603ec048-fae5-4a33-9822-7dab81991d87)
 
 
 ### Hi there 👋
