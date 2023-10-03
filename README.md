@@ -5,7 +5,7 @@
 
 ```c#
   PatricioBordon = {
-     code = [C/C++, C#, SQL, Python, HTML5, CSS3];
+     code = [C/C++, C#, SQL, Python, HTML5, CSS3, Java, Kotlin];
      tools = [Visual_Studio_Code, Visual_Studio_IDE, CodeBlocks, Source_Tree, BitBucket, JupyterLab, Git_Bash, Git, Gimp];
      age = 20;
      studies = UTN;
@@ -32,7 +32,6 @@
 ``
 
 ### 🌱 I’m currently learning 
-- C/C++ 
-- C# .NET
-- SQL
+- Java
+- Kotlin
 
