@@ -1,4 +1,3 @@
-![shine](https://github.com/PatricioBordon/PatricioBordon/assets/95234993/603ec048-fae5-4a33-9822-7dab81991d87)
 
 
 ### Hi there 👋
