@@ -4,9 +4,9 @@
 
 ```c#
   PatricioBordon = {
-     code = [C/C++, C#, SQL, Python, HTML5, CSS3, Java, Kotlin, PHP];
+     code = [C/C++, C#, SQL, Python, HTML5, CSS3, Java, Kotlin, PHP, Node.js, Nets.js, Next.js];
      tools = [PHPStorm, Visual_Studio_Code, Visual_Studio_IDE, CodeBlocks, Source_Tree, BitBucket, JupyterLab, Git_Bash, Git, Gimp];
-     age = 21;
+     age = 22;
      Degree = UTN;
      nacionality = Argentinian;
      from = [Argentina, AMBA];
